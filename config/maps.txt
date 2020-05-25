@@ -40,11 +40,6 @@ map pubbystation
 	votable
 endmap
 
-map deltastation
-	minplayers 50
-	votable
-endmap
-
 map icebox
 	minplayers 25
 	votable

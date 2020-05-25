@@ -25379,7 +25379,7 @@
 /area/ai_monitored/turret_protected/ai)
 "bsf" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
-	dir = 8
+	dir = 4
 	},
 /obj/structure/cable,
 /turf/open/floor/circuit,
@@ -26622,9 +26622,6 @@
 /turf/open/floor/plasteel,
 /area/hallway/primary/central)
 "bwh" = (
-/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden{
-	dir = 1
-	},
 /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden{
 	dir = 1
 	},
